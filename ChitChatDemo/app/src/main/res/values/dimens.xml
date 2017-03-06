@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--titleBar dimens begin-->
+    <dimen name="defauleTitleHeight">48dp</dimen>
+    <dimen name="defauleTitlePadding">11dp</dimen>
+    <dimen name="defauleTitleBtnWidth">65dp</dimen>
+    <dimen name="defauleTitleBtnHeight">48dp</dimen>
+    <dimen name="defaultTileMiddleTextSize">20dp</dimen>
+    <dimen name="titlebarRightTextSize">14dp</dimen>
+    <!--titleBar dimens end-->
+
+
+
+</resources>
